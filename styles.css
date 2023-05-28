@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+.container{
+  box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+  width: 20%;
+  margin: 5% auto;
+}
+.name{
+  padding: 0% 10%;
+  font-size: 35px;
+  font-weight: 700;
+}
+.price{
+  padding: 0% 30%;
+  font-weight: 500;
+}
+.desc{
+  padding: 0% 25%;
+  font-weight: 500;
+}
+.buttons{
+  margin: 10px;
+}
+.buttons button{
+  background-color: red;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  margin: 0% 34%;
+  border-radius: 15px;
+  border-color: transparent;
+  color:white;
+  font-weight:600;
+
+}
